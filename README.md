@@ -8,6 +8,9 @@ https://colab.research.google.com/drive/1E5iu9mjO0C80N4C8pTGs8jUXBAJRb8B-?usp=sh
 
 ### Задание 1
 
+Слева я показал графики из отчета к одному из прошлых домашних заданий, справа к текущему
+
+На графиках ниже мы можем видеть, что качество чтений довольно высокое
 <p float="left">
   <img src="https://user-images.githubusercontent.com/79662580/154859853-73df444f-da96-49ea-94bf-33dc38776260.png"  width="500" />
   <img src="https://user-images.githubusercontent.com/79662580/154859862-36aab7a8-8b6c-4d79-809d-e40c3942402f.png"  width="500" />
