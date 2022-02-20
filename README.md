@@ -48,10 +48,10 @@ https://colab.research.google.com/drive/1E5iu9mjO0C80N4C8pTGs8jUXBAJRb8B-?usp=sh
 
 Можно увидеть, что уровень метилирования эпибласта довольно высок.
 
-| [8 cell](https://github.com/dRabbit-ab/hse_hw1_meth/blob/main/data/SRR5836473_1_bismark_bt2_PE_report.html) | [ICM](https://github.com/dRabbit-ab/hse_hw1_meth/blob/main/data/SRR3824222_1_bismark_bt2_PE_report.html) | [epiblast](https://github.com/dRabbit-ab/hse_hw1_meth/blob/main/data/SRR5836475_1_bismark_bt2_PE_report.html) |
+| [8 cell](https://github.com/dRabbit-ab/hse_hw1_meth/blob/main/data/SRR5836473_1_bismark_bt2_PE_report.html) | [ICM](https://github.com/dRabbit-ab/hse_hw1_meth/blob/main/data/SRR5836475_1_bismark_bt2_PE_report.html) | [epiblast](https://github.com/dRabbit-ab/hse_hw1_meth/blob/main/data/SRR3824222_1_bismark_bt2_PE_report.html) |
 | ----------------- | ----------------- | ----------------- |
-|![Bismark M-bias Read 1 473](https://user-images.githubusercontent.com/79662580/154861385-37a145db-6097-4c4c-bccc-424e6a515e2a.png) |![Bismark M-bias Read 1 4222](https://user-images.githubusercontent.com/79662580/154861396-6a820a43-2d70-40ae-bd7d-a23f14c18c3e.png) | ![Bismark M-bias Read 1 475](https://user-images.githubusercontent.com/79662580/154861408-6a985666-c5e0-4117-8b35-3031a2633b7f.png) |
-|![Bismark M-bias Read 2 473](https://user-images.githubusercontent.com/79662580/154861430-986ec78b-153b-44b3-9e15-e0b7e0eaf533.png)|![Bismark M-bias Read 2 4222](https://user-images.githubusercontent.com/79662580/154861435-b11e71cd-6552-463a-ba76-4d320be92854.png)|![Bismark M-bias Read 2 475](https://user-images.githubusercontent.com/79662580/154861436-41afa56a-86af-4ed0-a2a9-dad6cd364085.png)|
+|![Bismark M-bias Read 1 473](https://user-images.githubusercontent.com/79662580/154861385-37a145db-6097-4c4c-bccc-424e6a515e2a.png) | ![Bismark M-bias Read 1 475](https://user-images.githubusercontent.com/79662580/154861408-6a985666-c5e0-4117-8b35-3031a2633b7f.png) | ![Bismark M-bias Read 1 4222](https://user-images.githubusercontent.com/79662580/154861396-6a820a43-2d70-40ae-bd7d-a23f14c18c3e.png) |
+|![Bismark M-bias Read 2 473](https://user-images.githubusercontent.com/79662580/154861430-986ec78b-153b-44b3-9e15-e0b7e0eaf533.png)|![Bismark M-bias Read 2 475](https://user-images.githubusercontent.com/79662580/154861436-41afa56a-86af-4ed0-a2a9-dad6cd364085.png)|![Bismark M-bias Read 2 4222](https://user-images.githubusercontent.com/79662580/154861435-b11e71cd-6552-463a-ba76-4d320be92854.png)|
 
 #### Гистограммы распределения метилирования цитозинов
 
