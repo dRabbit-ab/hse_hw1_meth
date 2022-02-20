@@ -37,6 +37,13 @@ https://colab.research.google.com/drive/1E5iu9mjO0C80N4C8pTGs8jUXBAJRb8B-?usp=sh
 ### Задание 2
 
 #### Статистика
+
+|          | 11347700-11367700 | 40185800-40195800 |  Дуплицировано, % |
+| -------- | ----------------- | ----------------- | ----------------- |
+| 8 Cell   | 1090              | 464               | 18.31%            |
+| epiblast | 2328              | 1062              | 2.92%             |
+| icm      | 1456              | 630               | 9.08%             |
+
 ![image](https://user-images.githubusercontent.com/79662580/154709000-80e3ba7c-11b6-44d6-936b-05cdc6d13d1e.png)
 ![image](https://user-images.githubusercontent.com/79662580/154709023-9271b3e7-c946-4fc2-aacc-162af7e53288.png)
 
