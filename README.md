@@ -9,8 +9,8 @@ https://colab.research.google.com/drive/1E5iu9mjO0C80N4C8pTGs8jUXBAJRb8B-?usp=sh
 ### Задание 1
 
 <p float="left">
-  <img src="![image](https://user-images.githubusercontent.com/79662580/154859853-73df444f-da96-49ea-94bf-33dc38776260.png)"  width="100" />
-  <img src="![image](https://user-images.githubusercontent.com/79662580/154859862-36aab7a8-8b6c-4d79-809d-e40c3942402f.png)"  width="100" />
+  <img src="https://user-images.githubusercontent.com/79662580/154859853-73df444f-da96-49ea-94bf-33dc38776260.png"  width="100" />
+  <img src="https://user-images.githubusercontent.com/79662580/154859862-36aab7a8-8b6c-4d79-809d-e40c3942402f.png"  width="100" />
 </p>
 
 ![image](https://user-images.githubusercontent.com/79662580/154859866-7b94c1df-9fb3-4afb-af67-82a26edee8a7.png)
