@@ -28,7 +28,7 @@ https://colab.research.google.com/drive/1E5iu9mjO0C80N4C8pTGs8jUXBAJRb8B-?usp=sh
   <img src="https://user-images.githubusercontent.com/79662580/154859880-bdc69a3c-6349-4ea4-968e-bc452dfa4b24.png"  width="500" />
 </p>
 
-
+Заметим, что распределение значений сильно отличается от теоретического
 <p float="left">
   <img src="https://user-images.githubusercontent.com/79662580/154859894-4bdb4f72-1bd7-4e12-9483-cca69bca3ede.png"  width="500" />
   <img src="https://user-images.githubusercontent.com/79662580/154859900-a5a136f5-1830-4139-b848-ec518c2de228.png"  width="500" />
