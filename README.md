@@ -57,7 +57,7 @@ https://colab.research.google.com/drive/1E5iu9mjO0C80N4C8pTGs8jUXBAJRb8B-?usp=sh
 | ----------------- | ----------------- | ----------------- |
 |![8_cell_hist](https://user-images.githubusercontent.com/79662580/154861898-04ca97ef-ca5d-45e2-afd5-f2b0f0feee63.png)|![icm_hist](https://user-images.githubusercontent.com/79662580/154861903-a53cf295-69a7-4b9d-a096-0678853fbd3c.png)|![epiblast_hist](https://user-images.githubusercontent.com/79662580/154861907-065d681c-16c4-473c-9d33-28236049cebf.png)|
 
-<p float="center">
+<p float="left">
   <img src="https://user-images.githubusercontent.com/79662580/154862124-e0ddd7da-aba0-4a7b-8535-9c96fd640325.png"  width="600" />
 </p>
 
